@@ -82,4 +82,4 @@ If you are training an RL model, these are the elements which you take actions o
 
 These are elements that change the URL of the web page. Which in a sense changes the TREE of the page. You can think of these elements as having a nested tree structure within the main tree.
 
-This can heavily grow the size of the state space which require more exploration or more spophistcated serach algorithms.
+This can heavily grow the size of the state space which require more exploration or more sophisticated search algorithms.
