@@ -1,6 +1,6 @@
 # Visualize the DOM
 
-You can think of any site as a tree of elements. The DOM tree is the tree of all the elements in a web page.
+You can think of any site as a tree of elements. The DOM tree is the tree of all the elements in a web page. Checkout the [ipynb notebook](./main.ipynb)!
 
 ## List of popular HTML elements
 
